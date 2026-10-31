@@ -22,7 +22,6 @@ Ce dépôt présente le travail pratique portant sur la prise en main de la bibl
 ```text
 lab_pytorch_v1/
 ├── Exercices_Activite_Pratique_PyTorch.ipynb   # Notebook principal contenant la résolution complète des 4 exercices
-├── Activité pratique Bases de Pytorch.ipynb    # Support de cours et énoncé des exercices
 ├── mnist_mlp.pth                               # Poids entraînés du modèle MLP (Exercice 2)
 ├── mnist_cnn.pth                               # Poids entraînés du modèle CNN (Exercice 4)
 ├── pyproject.toml                              # Définition des dépendances et du projet Python
